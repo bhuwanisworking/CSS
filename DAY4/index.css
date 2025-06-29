@@ -1,0 +1,13 @@
+*{
+    border: 2px dashed black;
+}
+div{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin:40px;
+}
+span{
+    background-color: green;
+     margin:40px;
+}
