@@ -2,3 +2,10 @@ h1{
     background-color: aquamarine;
     color: brown;
 }
+/* class can be same b ut the id is unique */
+#div{
+    background-color: green;
+}
+.p1{
+    background-color: chartreuse;
+}
