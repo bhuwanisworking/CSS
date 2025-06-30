@@ -1,0 +1,36 @@
+.main{
+    height: 100px;
+    width: 500px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+}
+.div1{
+    height: 50px;
+    width:50px;
+    background-color: red;
+    justify-content: center;
+
+}
+.div2{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    flex-shrink: 4;
+
+}
+.div3{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    flex-grow: 4;
+
+}
+.div4{
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+
+}
