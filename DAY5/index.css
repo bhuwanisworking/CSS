@@ -1,0 +1,14 @@
+img{
+    height:100px;
+    width:100px;
+    margin-right: 10px;
+
+
+}
+.image2{
+    position: relative;
+    top:100px;
+}
+div{
+    border: 1px solid black;
+}
