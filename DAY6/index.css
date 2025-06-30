@@ -1,0 +1,10 @@
+.container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.child{
+    background-color: gray;
+    height: 100px;
+    width:100px
+}
