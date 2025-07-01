@@ -1,0 +1,9 @@
+.main{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    box-shadow:coral;
+}
+p{
+    text-shadow: 1px 2px green;
+}
